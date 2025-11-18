@@ -9,7 +9,7 @@ This repository contains two C programs that convert temperatures between Fahren
 This program converts a given temperature in Fahrenheit to its equivalent in Celsius using the formula:
 
 
-![Fahrenheit to Celsius Converter Demo](images/expanding-cards.png)
+![Fahrenheit to Celsius Converter Demo](f_to_c.jpg)
 
 #### How it Works:
 - The program prompts the user to input a temperature in **Fahrenheit**.
@@ -20,7 +20,7 @@ This program converts a given temperature in Fahrenheit to its equivalent in Cel
 
 This program converts a given temperature in Celsius to its equivalent in Fahrenheit using the formula:
 
-![Fahrenheit to Celsius Converter Demo](images/expanding-cards.png)
+![Celsius to Fahrenheit Converter Demo](c_to_f.jpg)
 
 
 #### How it Works:
