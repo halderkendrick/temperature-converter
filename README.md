@@ -8,9 +8,8 @@ This repository contains two C programs that convert temperatures between Fahren
 
 This program converts a given temperature in Fahrenheit to its equivalent in Celsius using the formula:
 
-\[
-Celsius = (Fahrenheit - 32) \times \frac{5}{9}
-\]
+
+![Fahrenheit to Celsius Converter Demo](images/expanding-cards.png)
 
 #### How it Works:
 - The program prompts the user to input a temperature in **Fahrenheit**.
@@ -21,9 +20,8 @@ Celsius = (Fahrenheit - 32) \times \frac{5}{9}
 
 This program converts a given temperature in Celsius to its equivalent in Fahrenheit using the formula:
 
-\[
-Fahrenheit = (Celsius \times \frac{9}{5}) + 32
-\]
+![Fahrenheit to Celsius Converter Demo](images/expanding-cards.png)
+
 
 #### How it Works:
 - The program prompts the user to input a temperature in **Celsius**.
